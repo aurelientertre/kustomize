@@ -5,7 +5,7 @@ namespace: tp7-kustomize
 images:
 - name: ghcr.io/aurelientertre/spring-petclinic
   newName: ghcr.io/aurelientertre/spring-petclinic
-  newTag: a790b4ca554869cb98e165b5a20bf40ace2a00cb
+  newTag: b40383baed6ca4376ddb58f1552a4c03c60fbaa6
 - name: spring-petclinic
   newName: ghcr.io/aurelientertre/spring-petclinic
   newTag: 1246ce9c6eb185af8045005a62e78e2cc63ae631
